@@ -1,0 +1,4 @@
+.env
+cad
+*.sqlite3
+*.py[code]
